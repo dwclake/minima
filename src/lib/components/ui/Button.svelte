@@ -11,9 +11,7 @@
 </script>
 
 <button
-	class={twMerge(
-		"btn default-colours default-margin hover-colours default-shadow hover-shadow active-colours active-shadow"
-	)}
+	class="btn default-colours default-margin hover-colours default-shadow hover-shadow active-colours active-shadow"
 	{...props}
 >
 	{@render children?.()}

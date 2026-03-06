@@ -6,7 +6,12 @@
 </script>
 
 <svelte:head>
+	<title>Minima</title>
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
 {@render children()}
+
+<style lang="postcss">
+
+</style>

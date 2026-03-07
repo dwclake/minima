@@ -13,8 +13,6 @@
 </ul>
 
 <style lang="postcss">
-	@reference "$routes/layout.css";
-
 	.list {
 	}
 </style>

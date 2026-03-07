@@ -4,8 +4,6 @@
 <textarea class="textarea default-colours default-margin hover"> </textarea>
 
 <style lang="postcss">
-	@reference "$routes/layout.css";
-
 	.textarea {
 		@apply resize-none;
 	}

@@ -13,8 +13,6 @@
 </canvas>
 
 <style lang="postcss">
-	@reference "$routes/layout.css";
-
 	.webgl-canvas {
 	}
 </style>

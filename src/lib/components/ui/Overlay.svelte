@@ -13,8 +13,6 @@
 </div>
 
 <style lang="postcss">
-	@reference "$routes/layout.css";
-
 	.overlay {
 		@apply p-2 shadow-none border-none;
 	}

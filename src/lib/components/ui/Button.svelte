@@ -10,15 +10,13 @@
 </script>
 
 <button
-	class="btn default-colours default-margin default-shadow hover active disabled"
+	class="btn default-colours default-margin hover active disabled"
 	{...props}
 >
 	{@render children?.()}
 </button>
 
 <style lang="postcss">
-	@reference "$routes/layout.css";
-
 	.btn {
 		@apply cursor-pointer;
 	}

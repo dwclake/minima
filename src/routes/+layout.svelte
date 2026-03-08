@@ -10,7 +10,10 @@
 	<link rel="icon" href={favicon} />
 </svelte:head>
 
-{@render children()}
+<div class="relative size-full">
+	{@render children()}
+</div>
 
 <style lang="postcss">
+	@reference "$routes/layout.css";
 </style>

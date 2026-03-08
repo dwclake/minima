@@ -13,6 +13,8 @@
 </select>
 
 <style lang="postcss">
+	@reference "$routes/layout.css";
+
 	.select {
 	}
 </style>

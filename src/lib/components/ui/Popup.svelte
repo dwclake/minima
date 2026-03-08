@@ -13,6 +13,8 @@
 </div>
 
 <style lang="postcss">
+	@reference "$routes/layout.css";
+
 	.popup {
 	}
 </style>

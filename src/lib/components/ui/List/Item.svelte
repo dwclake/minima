@@ -13,6 +13,8 @@
 </li>
 
 <style lang="postcss">
+	@reference "$routes/layout.css";
+
 	.item {
 	}
 </style>

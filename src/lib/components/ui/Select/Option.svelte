@@ -13,6 +13,8 @@
 </option>
 
 <style lang="postcss">
+	@reference "$routes/layout.css";
+
 	.option {
 	}
 </style>

@@ -12,7 +12,7 @@
 	html,
 	body,
 	#svelte {
-		@apply size-full bg-mirage-900/85 text-base;
+		@apply size-full bg-gray-400 text-base;
 	}
 }
 
@@ -22,11 +22,11 @@
 	}
 
 	.default-colours {
-		@apply border border-mirage-300 bg-mirage-700/30 text-olive-200 shadow-mirage-300;
+		@apply border border-mirage-300 bg-mirage-900/60 text-olive-200 shadow-mirage-300;
 	}
 
 	.hover {
-		@apply transform transition duration-300 ease-in-out hover:border-mirage-950 hover:bg-orchid/40 hover:shadow-mirage-950;
+		@apply transition duration-300 ease-in-out hover:border-mirage-950 hover:bg-orchid/40 hover:shadow-mirage-950;
 	}
 
 	.active {

@@ -31,7 +31,7 @@
 	@reference "$routes/layout.css";
 
 	.demo-container {
-		@apply flex aspect-video h-auto max-h-full w-auto gap-12 p-8;
+		@apply flex size-full gap-12 p-8;
 	}
 
 	.demo-left {

@@ -31,11 +31,11 @@
 	@reference "$routes/layout.css";
 
 	.demo-container {
-		@apply flex size-full gap-12 p-8;
+		@apply flex size-full gap-6 p-6;
 	}
 
 	.demo-left {
-		@apply flex min-h-0 flex-1 flex-col gap-8;
+		@apply flex min-h-0 flex-1 flex-col gap-6;
 	}
 
 	.function-selector {
@@ -57,7 +57,7 @@
 	}
 
 	.demo-right {
-		@apply flex min-h-0 flex-1 flex-col gap-8;
+		@apply flex min-h-0 flex-1 flex-col gap-6;
 	}
 
 	.hyperparameters {
